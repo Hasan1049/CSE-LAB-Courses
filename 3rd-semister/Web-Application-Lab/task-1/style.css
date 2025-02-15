@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(233, 232, 217);
+ 
+ }
+ h1{
+     text-transform: uppercase;
+     text-align: center;
+     background-color: rgb(114, 159, 109);
+ }
+ 
+ td{
+     padding: 30px;
+ }
+ img{
+    height: 500px;
+    width: 700px;
+    margin-left: 25% ;
+
+ }
+ h2{
+     padding-bottom: 5px;
+ }
+ #one{
+     font-size: 30px;
+ }
+ 
